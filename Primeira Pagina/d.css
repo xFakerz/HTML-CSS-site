@@ -1,0 +1,12 @@
+body {
+    background-image: url(fundo.png);
+    
+}
+
+.textoaprensentativo h1 {
+     color: rgb(0, 247, 255);
+}
+
+.textoaprensentativo h2 {
+    color: rgb(4, 142, 255);
+}

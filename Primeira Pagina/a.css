@@ -1,0 +1,99 @@
+body {
+    background-image: url(steam.jpg);
+}
+
+h1 {
+    color: rgb(0, 68, 255);
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: xx-large;
+}
+
+p {
+    color: rgb(0, 0, 0);
+}
+
+.titulo {
+    color: rgb(0, 255, 242)
+}
+
+.text h1 {
+    text-align: center;
+    color: rgb(255, 166, 0);
+}
+
+.text p {
+    text-align: left;
+    color: rgb(0, 78, 102);
+}
+
+.text img {
+    float: left;
+    width: 300px;
+    height: 250px;
+}
+
+.imgum img {
+    width: 400px;
+    height: 200px;
+}
+
+.texttwo h1 {
+    text-align: center;
+    color: rgb(255, 166, 0);
+}
+
+.texttwo p {
+    text-align: left;
+    color: rgb(0, 78, 102);
+}
+
+.quadradointerno {
+    background-color: rgb(252, 227, 119);
+    width: 60%;
+    height: 250px;
+}
+
+.texttwo iframe {
+     float: left;
+     width: 300px;
+     height: 200px;
+}
+
+.quadradointernotwo {
+    background-color: rgb(252, 227, 119);
+    width: 60%;
+    height: 200px;
+}
+
+.texttree h1 {
+    text-align: center;
+    color: rgb(255, 166, 0);
+}
+
+.texttree p {
+    text-align: left;
+    color: rgb(0, 78, 102);
+}
+.texttree iframe {
+    float: left;
+    width: 400px;
+    height: 200px;
+}
+
+.quadradointernotree {
+    background-color: rgb(252, 227, 119);
+    width: 60%;
+    height: 200px;
+}
+
+.steamimg {
+    background-color: rgb(42, 53, 70);
+    width: 60%;
+    height: 400px;
+}
+
+.steamimg img {
+      float: left;
+      width: 300px;
+      height: 200px; 
+}

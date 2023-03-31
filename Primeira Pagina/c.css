@@ -1,0 +1,81 @@
+body {
+    background-image: url(Funbo.jpg);
+}
+
+h1 {
+    color: rgb(255, 174, 0);
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: xx-large;
+}
+
+h2 {
+    color: rgb(255, 187, 40);
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: x-large
+}
+
+p {
+    color: rgb(0, 0, 0);
+}
+
+.container {
+    height: 290px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.itemtitulo h1{
+    margin-left: 190px;
+}
+
+.itemtitulo h3 {
+    margin-left: 140px;
+}
+
+.itemtitulo h4 {
+    margin-left: 280px;
+}
+
+.fundtitulo {
+    background-color: rgb(248, 214, 139);
+    width: 40%;
+    height: 250px;
+}
+
+.video iframe{
+      width: 600px;
+      height: 300px;
+      margin-left: 640px;
+} 
+
+.container2 {
+    height: 290px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.itemtitulo2 h1{
+    margin-left: 50px;
+}
+
+.itemtitulo2 h3 {
+    margin-left: 190px;
+}
+
+.itemtitulo2 h4 {
+    margin-left: 280px;
+}
+
+.fundtitulo2 {
+    background-color: rgb(248, 214, 139);
+    width: 40%;
+    height: 250px;
+}
+
+.videotwo iframe{
+      width: 600px;
+      height: 300px;
+      margin-left: 640px;
+} 
